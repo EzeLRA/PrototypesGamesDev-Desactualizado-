@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642968594 source:c:\users\cristina\desktop\programas\programa de programacion\juegoproto\main.cpp
+	<iostream>
+	<allegro.h>
+	<cmath>
+	<cstdlib>
+
